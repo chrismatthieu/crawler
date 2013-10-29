@@ -1,0 +1,16 @@
+{
+  "name": "crawler",
+  "description": "web crawler",
+  "version": "0.0.1",
+  "author": "Chris Matthieu",
+  "private": true,
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "crawler": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
